@@ -1,0 +1,12 @@
+@font-face {
+   font-family: 'ArbFONTS-NotoKufiArabic-Bold';
+   src: url('ArbFONTS-NotoKufiArabic-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'ArbFONTS-NotoKufiArabic-Regular';
+   src: url('ArbFONTS-NotoKufiArabic-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'ArbFONTS-NotoNaskhArabicUI-Bold';
+   src: url('ArbFONTS-NotoNaskhArabicUI-Bold/font.ttf');
+}
